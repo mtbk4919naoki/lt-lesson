@@ -1,0 +1,23 @@
+._scale.slidev-vclick-target {
+  transition: all 500ms ease;
+}
+
+._scale.slidev-vclick-hidden{
+  transform: scale(0);
+}
+
+._fade.slidev-vclick-target {
+  transition: all 500ms ease;
+}
+
+._fade.slidev-vclick-hidden{
+  opacity: 0;
+}
+
+li {
+  @apply text-6;
+}
+
+p {
+  @apply text-5 !leading-loose;
+}
