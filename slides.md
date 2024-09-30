@@ -122,7 +122,7 @@ layout: center
 <ul>
   <li class="text-8">プレゼン力や、雑談力を鍛える機会になる</li>
   <li v-click class="text-8 _fade">交流を広げるチャンスになる</li>
-  <li v-click class="text-8 _fade">勉強する動機づけになる</li>
+  <li v-click class="text-8 _fade">勉強する動機付けになる</li>
   <li v-click class="text-8 _fade">発表が楽しい</li>
 </ul>
 
@@ -484,11 +484,11 @@ layout: center
 ---
 
 # LTはメリットがいっぱい！
-Lightning Talkの略で、5分〜15分程度の制限時間の中で、あるテーマについて喋る
+Lightning Talkの略で、制限時間の中で喋る
 
 - プレゼン力・雑談力の向上  
+- 交流を広げるチャンスになる  
 - 勉強の動機付けになる  
-- 交流が広がる  
 - 発表が楽しい  
 
 
